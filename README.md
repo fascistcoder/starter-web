@@ -2,6 +2,8 @@
 
 ## Introduvtion
 
+This is a simple website for gor git and github
+
 ## Purpose
 
 ## Deployment
