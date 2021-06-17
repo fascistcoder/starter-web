@@ -17,5 +17,7 @@ This is exaple is to show different parts of the git repositry and various comma
 
 ## How to contribute
 
+Please frk this reopistry
+
 ## Copyright
 2021 Pulkit
