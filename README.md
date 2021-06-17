@@ -16,3 +16,6 @@ We will deploy once we learn git
 This is exaple is to show different parts of the git repositry and various commands
 
 ## How to contribute
+
+## Copyright
+2021 Pulkit
