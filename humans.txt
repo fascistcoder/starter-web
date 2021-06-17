@@ -3,7 +3,8 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Pulkit Aggarwal gargpulkit234@gmail.com
+    
 
 # THANKS
 
