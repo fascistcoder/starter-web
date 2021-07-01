@@ -2,7 +2,7 @@
 
 ## Introduvtion
 
-This is a simple website for gor git and github
+This is a simple website for gor git and github. Adding a linr for rebasing example
 
 ## Purpose
 
