@@ -20,4 +20,4 @@ This is exaple is to show different parts of the git repositry and various comma
 Please frk this reopistry
 
 ## Copyright
-2021 Pulkit
+2021 PulkitmAll rights reserved
