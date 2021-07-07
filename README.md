@@ -4,7 +4,7 @@ Udating file for an emergency fix
 ## Introduvtion
 
 This is a simple website for gor git and github. Adding a linr for rebasing example, then more changes to myfeature branch
-
+Udating file for an emergency fix after stashing
 ## Purpose
 
 Purpose is to learn git 
